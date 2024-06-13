@@ -35,21 +35,4 @@ cd hidephish
 bash hidephish.sh
 ```
 
-<br />
 
-- _Testuar në Kali Linux, Termux dhe Ubuntu_ <br />
-
-
-<br />
-
-
-</p>
-
-<br />
-
-
-</a>
-
-```
-
-```
