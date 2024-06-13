@@ -43,20 +43,12 @@ bash hidephish.sh
 
 <br />
 
-## 🖼️ Screenshot
 
-<p align="">
-	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
 </p>
 
 <br />
 
-## ❤️ Kontributuesit:
 
-Ju mund të propozoni një kërkesë për funksion të ri duke hapur një çështje ose një kërkesë tërheqjeje.
-Këtu është një listë e kontributuesve të HidePhish
-<a href="https://github.com/Mirsadnee/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=Mirsadnee/HidePhish" />
 </a>
 
 ```
